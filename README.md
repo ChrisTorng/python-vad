@@ -1,3 +1,15 @@
+Forked from
+===========
+
+https://github.com/wangshub/python-vad
+
+Windows
+=======
+```
+pip install webrtcvad-wheels
+pip install pyaudio
+```
+
 python vad
 ==========
 
